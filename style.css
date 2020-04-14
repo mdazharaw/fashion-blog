@@ -1,0 +1,42 @@
+.title{
+    color: red;
+    font-weight: lighter;
+}
+h2{
+    color: darkslategray;
+    font-size: large;
+}
+.navLink{
+    color: #ddd;
+    font-size: medium;
+    text-decoration: underline;
+}
+.date{
+    color: #cfcfcf;
+    font-weight: 350;
+    font-size: x-large;
+}
+
+.subHeader{
+       color: black;
+       font-weight: 400;
+       font-size: x-large;
+}
+
+.large{
+    font-size: 80px;
+    font-weight: 100;
+    padding-top: 0;
+    color: grey;
+    float: left;
+}
+
+.articleText{
+    text-align: justify;
+}
+
+.continue{
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+}
